@@ -1,0 +1,32 @@
+  +--------------------------------------------------------+
+  |_25   25          README comment or file                |
+  |      _1_    1      Submitted a readme file             |
+  |      _5_    5      Description of assignment           |
+  |      _2_    2      Clean submission(no .o .d files)    |
+  |      _2_    2      Statement of help                   |
+  |      _10   10      Code Comments                       |
+  |      _5_    5      Regular commits and log entries     |
+  +--------------------------------------------------------+
+  |_15   15          Implementation                        |
+  |      _10   10      Compiles and executes w/o errors    |
+  |      _5_    5      Written in C/C++;                   |
+  +--------------------------------------------------------+
+  |_15   15          Input/output                          |
+  |      _5_    5      Reads input image                   |
+  |      _5_    5      Writes output image                 |
+  |      _5_    5      Output has desired resolution       |
+  +--------------------------------------------------------+
+  |_25   25          Energy function                       |
+  +--------------------------------------------------------+
+  |_45   45          Seam carving                          |
+  |      _25   25      Dynamic programming                 |
+  |      _15   15      Seam removal                        |
+  |      _5_    5      Supports horizontal and vertical    |
+  +--------------------------------------------------------+
+  |___     15         (EX) Scharr gradient operator        |
+  |___     15         (Ex) Compute energy once             |
+  |___     15         (Ex) Webpage with your results       |
+  |___     15         (Ex) Add seams                       |
+  +--------------------------------------------------------+
+  |125                Total (of 125)                       |
+  +--------------------------------------------------------+
